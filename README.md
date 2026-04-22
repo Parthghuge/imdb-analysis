@@ -29,3 +29,17 @@ This project analyzes the IMDB Top 1000 movies dataset using Python.
 Graphs showing movie insights and trends.
 # imdb-analysis
 IMDB data analysis using Python 
+
+## Screenshots
+
+### Top Movies
+![Top Movies](images/top_movies.png)
+
+### Genres
+![Genres](images/genres.png)
+
+### Ratings
+![Ratings](images/ratings.png)
+
+### Votes vs Rating
+![Votes](images/votes.png)
